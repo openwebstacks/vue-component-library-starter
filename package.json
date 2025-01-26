@@ -67,7 +67,7 @@
     "@babel/types": "^7.19.0",
     "@ow3/stacks": "^0.30.4",
     "@types/node": "^18.7.16",
-    "@vueuse/core": "^9.2.0",
+    "@vueuse/core": "^12.5.0",
     "bumpp": "^8.2.1",
     "commitizen": "^4.2.5",
     "conventional-changelog-cli": "^2.2.2",
